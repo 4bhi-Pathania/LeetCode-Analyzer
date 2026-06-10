@@ -1,17 +1,17 @@
 
-# 🚀 LEETCODE Analyzer
+#  LEETCODE Analyzer
 
 An interactive web application to **compare LeetCode users** and visualize their problem-solving performance using charts.
 
 ---
 
-## 🌍 Live Demo
+##  Live Demo
 
 🔗 https://4bhi-pathania.github.io/LeetCode-Analyzer/
 
 ---
 
-## 📌 Overview
+##  Overview
 
 DSA Analyzer is a web-based dashboard that allows users to:
 
@@ -23,17 +23,17 @@ This project demonstrates the use of APIs, data visualization, and frontend deve
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🔍 Compare two LeetCode users
-* 📊 Interactive bar chart visualization using Chart.js
-* 📈 Difficulty-wise breakdown (Easy / Medium / Hard)
-* 🎯 Clean and responsive dashboard UI
-* ⚡ Real-time data fetching using API
+*  Compare two LeetCode users
+*  Interactive bar chart visualization using Chart.js
+*  Difficulty-wise breakdown (Easy / Medium / Hard)
+*  Clean and responsive dashboard UI
+*  Real-time data fetching using API
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Charts:** Chart.js
@@ -42,7 +42,7 @@ This project demonstrates the use of APIs, data visualization, and frontend deve
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User enters two LeetCode usernames
 2. Application fetches data from external API
@@ -51,16 +51,16 @@ This project demonstrates the use of APIs, data visualization, and frontend deve
 
 ---
 
-## 📊 Future Improvements
+##  Future Improvements
 
-* 🏆 Add winner indicator
-* 📅 Track progress over time
-* 📱 Improve mobile responsiveness
-* 🎨 Advanced UI animations
+*  Add winner indicator
+*  Track progress over time
+*  Improve mobile responsiveness
+*  Advanced UI animations
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
@@ -68,7 +68,7 @@ Feel free to fork this repository and submit a pull request.
 ---
 
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * LeetCode for problem data
 * Chart.js for visualization
